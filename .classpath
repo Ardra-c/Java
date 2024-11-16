@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DSA/src"/>
+	<classpathentry kind="src" path="JUMP/src"/>
+	<classpathentry kind="src" path="Loops/ForLoop/src"/>
+	<classpathentry kind="src" path="Loops/src"/>
+	<classpathentry kind="src" path="NumberManipulation/src"/>
+	<classpathentry kind="src" path="OOPS/src"/>
+	<classpathentry kind="src" path="Pattern/src"/>
+	<classpathentry kind="src" path="Practice/src"/>
+	<classpathentry kind="src" path="Prime/src"/>
+	<classpathentry kind="src" path="SimpleCalculator/src"/>
+	<classpathentry kind="src" path="Switch/src"/>
+	<classpathentry kind="lib" path="SimpleCalculator/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="SimpleCalculator/library/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="DSA/bin"/>
+</classpath>
